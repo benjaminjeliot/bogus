@@ -1,2 +1,2 @@
 # bogus
-Bogus repo for testing stuff out
+Bogus repo for testing out stuff
