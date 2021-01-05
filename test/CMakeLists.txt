@@ -4,6 +4,7 @@ find_package(GTest REQUIRED)
 
 add_executable(test-runner
     math_test.cpp
+    misc_test.cpp
     test-runner.cpp
 )
 
